@@ -1,0 +1,7 @@
+export const TOGGLE_STATE = 'TOGGLE_STATE';
+
+export const REFRESH_SURGE = 'REFRESH_SURGE';
+
+export const REFRESH_OFFER = 'REFRESH_OFFER';
+
+export const GET_DISPATCH = 'GET_DISPATCH';
